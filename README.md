@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/66046052.svg)](https://zenodo.org/badge/latestdoi/66046052)
+
 # CoDeS3D: Contextualising Developmental SNPs in Three Dimensions
 
 ## Installation
